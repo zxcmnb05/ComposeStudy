@@ -1,4 +1,4 @@
-##First Compose
+## First Compose
 
 **Jetpack Compose**는 기존 안드로이드 코드에서 사용하는 xml 레이아웃을 사용하지 않고 선언형 함수를 사용하여 코드를 간소화할 수 있습니다. 
 
