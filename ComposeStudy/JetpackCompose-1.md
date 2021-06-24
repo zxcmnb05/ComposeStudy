@@ -1,4 +1,4 @@
-##First Compose
+## Jetpack Compose - 1
 
 **Jetpack Compose**는 기존 안드로이드 코드에서 사용하는 xml 레이아웃을 사용하지 않고 선언형 함수를 사용하여 코드를 간소화할 수 있습니다. 
 
@@ -69,4 +69,4 @@ fun DefaultPreview() {
 <br>
 
 
-혹시나 수정 및 보완할 점이 있다면 댓글로 남겨주세요
+혹시나 수정 및 보완할 점이 있다면 issues 남겨주세요
